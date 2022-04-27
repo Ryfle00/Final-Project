@@ -15,25 +15,25 @@ Be able to select items into a shopping cart.
 Then be they must be able to check out.
 
 ## Additional Notes
-Points to callout here.  Delete if unused.
+There are additional pages, and you can click the logo to go to the home page and the shopping cart to go to the shopping cart, even tho it is not obvious, as in nothing happens when you highlight them.
 
 # Feedback
 
 ## Usability Session 1
 
-**Passenger Notes:** I noticed 
+**Passenger Notes:** I noticed That the add to cart function is different so want to have clear instructions
 
-**Driver Notes:** User 1 provided the following feedback...
+**Driver Notes:** User 1 provided the following feedback... it was either temporary or would be improved upon, depending on difficulty.
 
-**Takeaways:** I plan to change...
+**Takeaways:** I plan to change... the buttons because they wouldn't agree with me
 
 ## Usability Session 2
 
-**Passenger Notes:** I noticed
+**Passenger Notes:** I noticed buttons blend in with background
 
-**Driver Notes:** User 1 provided the following feedback...
+**Driver Notes:** User 1 provided the following feedback... I'll change the color or add outline
 
-**Takeaways:** I plan to change...
+**Takeaways:** I plan to change... color and add outline
 
 # Angular Details
 
