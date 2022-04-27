@@ -1,7 +1,7 @@
-# Final Project
+# WeCon
 
-*[REDACTED]*
-### Mission Statement: [ALSO REDACTED]
+*We sell ICONS*
+### Mission Statement: We are just a company that sells various images/icons
 
 # Link to website
 [Link to website](https://karma-runner.github.io)
